@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "433615273134",
+    "firebase_url": "https://drawingsheet-2766d.firebaseio.com",
+    "project_id": "drawingsheet-2766d",
+    "storage_bucket": "drawingsheet-2766d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433615273134:android:2e69e6d3e92d2eee",
+        "android_client_info": {
+          "package_name": "com.vish.apps.drawingsheet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433615273134-348f95an3u8h19fk62kf24dqddhhp5c6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vish.apps.drawingsheet",
+            "certificate_hash": "9722425E42C3AD9C88CCA37A4FDBEFB5E0A38AF2"
+          }
+        },
+        {
+          "client_id": "433615273134-kv3bk2b3mfkvke6hfcjjbs09g8iponmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXc_HcJhbiGl2kPIs172zidSY59_LeESM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433615273134-kv3bk2b3mfkvke6hfcjjbs09g8iponmh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
